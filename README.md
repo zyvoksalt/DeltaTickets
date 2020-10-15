@@ -11,7 +11,7 @@
 * Date de création: Crée le 28 août 2020
 * Date de mise en ligne Github: Le 15 octobre 2020
 
-InviteMember est un bot Discord open source codé en JavaScript avec [Discord.js](https://discord.js.org) par [GalackQSM](https://github.com/GalackQSM).  
+DeltaTickets est un bot Discord open source codé en JavaScript avec [Discord.js](https://discord.js.org) par [GalackQSM](https://github.com/GalackQSM).  
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
 
 ### Les commandes
