@@ -22,6 +22,7 @@ DeltaTickets a beaucoup de fonctionnalités, avec **pour les tickets support**:
 
 * Une fois le repot télécharger aller dans le dossier `Storage`
 * Une fois dans ce fichier mettez le token de votre bot et enregistrer.
+* Ouvrez le dossier via CMD et faite `npm install`.
 * Ensuite lancer le bot avec la commande `node .` ou `node index`
 
 ## Links
