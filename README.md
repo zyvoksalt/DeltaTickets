@@ -19,11 +19,11 @@ N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le pr
 InviteMember a beaucoup de fonctionnalités, **pour les système d'invitation**:
 
 *   👩‍💼 **Administration**: `addbonus`, `removebonus`, `sync-invites`, `removeinvites`, `restoreinvites`. 
-*   🚓 **Messages MP**: `configdm`, `setdm`, `testdm`.
-*   🚓 **Messages d'arrivées**: `configjoin`, `setjoin`, `testjoin`.
-*   🚓 **Messages de départs**: `configleave`, `setleave`, `testleave`.
-*   🚓 **Invitation**: `invite`, `leaderboard`.
-*   🚓 **InviteMember**: `membercount`, `userinfo`, `botinfos`, `ping`, `partners`, `creators`, `support`, `add`.
+*   💬 **Messages MP**: `configdm`, `setdm`, `testdm`.
+*   ✉️ **Messages d'arrivées**: `configjoin`, `setjoin`, `testjoin`.
+*   📨 **Messages de départs**: `configleave`, `setleave`, `testleave`.
+*   📥 **Invitation**: `invite`, `leaderboard`.
+*   📔 **InviteMember**: `membercount`, `userinfo`, `botinfos`, `ping`, `partners`, `creators`, `support`, `add`.
 
 ## Installation
 
