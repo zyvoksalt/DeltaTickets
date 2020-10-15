@@ -14,7 +14,7 @@ module.exports = {
             }
 
             console.log("");
-            console.log(`Commands ${dirname.replace(/.\/commands\//gi, "")}`);
+            console.log(`Commandes ${dirname.replace(/.\/commands\//gi, "")}`);
             console.log("");
             jsFiles.forEach((f, i) => {
                 delete require.cache[require.resolve(`${dirname}${f}`)];
