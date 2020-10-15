@@ -6,7 +6,7 @@ module.exports = async (bot) => {
     bot.user.setActivity("Je gère tes tickets support", {type: "LISTENING"});
   }
   function Suga () {
-    bot.user.setActivity("t*help - https://graphshop.org", {type: "LISTENING"});
+    bot.user.setActivity("t*help - https://delta-bot.com", {type: "LISTENING"});
   }
   setTimeout(V,10000);
   setTimeout(Suga,10000);
