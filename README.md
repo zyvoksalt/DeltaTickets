@@ -7,6 +7,8 @@
 [![](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.com/paypalme/DeltaBot)
 
 > Ce bot étais utilisé par plus de 130k utilisateurs Discord et plus de 250 serveurs.
+> Date de création: Crée le 28 août 2020
+> Date de mise en ligne Github: Le 15 octobre 2020
 
 DeltaTickets est un bot Discord open source codé en JavaScript avec [Discord.js](https://discord.js.org) par [GalackQSM](https://github.com/GalackQSM).  
 N'hésitez pas à ajouter une étoile ⭐ au référentiel pour promouvoir le projet!
