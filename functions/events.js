@@ -12,5 +12,5 @@ module.exports.run = (bot) => {
         delete require.cache[require.resolve(`${eventDir}/${eventFile}`)];
     }
     bot.events = eventFiles.length;
-    console.log(`Loaded ${eventFiles.length} events !`);
+    console.log(`Chargement de ${eventFiles.length} événements !`);
 }
